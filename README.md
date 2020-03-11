@@ -9,10 +9,10 @@ Group Members:
 
 This repository contains all the files and scripts pertaining to the Broadway Data Analysis Project for ANLY 501.
 
--	Directory Part1 contains all the data files and scripts pertaining to Project Part 1 (due: October 7, 2019)
+-	Directory Part1 contains all the data files and scripts about data collection, data cleanliness evaluation, and data cleaning.
 
--	Directory Part2 contains all the data files and scripts pertaining to Project Part 2 (due: November 4, 2019)
+-	Directory Part2 contains all the data files and scripts about outlier detection, exploratory analysis, hypothesis tests, and predictive analysis.
 
--	Directory ld781_ll1038_yl879_yz678_P3 contains all the data files and scripts pertaining to Project Part 3 (due: December 9, 2019)
+-	Directory Part3 contains all the data files and scripts about NLP tasks and visualization.
 
 In each directory, there's a separate README.md file that provides detailed information about the files and scripts specific to that part of the project. 
