@@ -7,7 +7,7 @@ Group Members:
 	Yunfei Zhang (yz678)
 
 
-This repository contains all the files and scripts pertaining to the Broadway Data Analysis Project for ANLY 501.
+This repository contains all the files and scripts pertaining to the Broadway Data Analysis Project for ANLY 501. The project can be found here: https://sites.google.com/view/501finalprojectwebsite/home
 
 -	Directory Part1 contains all the data files and scripts about data collection, data cleanliness evaluation, and data cleaning.
 
